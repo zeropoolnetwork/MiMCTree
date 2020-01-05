@@ -4,7 +4,8 @@
   "description": "MIMCTree",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "contract:compile": "MNEMONIC=\"plate glass garage duck dice siege hamster swim lizard dolphin stove obey globe switch survey\" truffle compile --network kovan"
   },
   "repository": {
     "type": "git",
